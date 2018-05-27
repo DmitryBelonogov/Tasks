@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="cardview_shadow_start_color">#ffff4344</color>
+    <color name="cardview_shadow_end_color">#01404344</color>
+</resources>
